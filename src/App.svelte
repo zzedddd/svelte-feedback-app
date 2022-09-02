@@ -8,7 +8,7 @@
 			id : 1,
 			rating : 10,
 			name : "Sylvia",
-			feedback : "Fuck yeah daddy! Fuck my pussy harder harder and herder!"
+			feedback : "Fuck yeah daddy! Fuck my pussy harder harder and harder!"
 		},
 		{
 			id : 2,
@@ -20,7 +20,7 @@
 			id : 3,
 			rating : 10,
 			name : "Riya",
-			feedback : "Fuck yeah daddy! Fuck my pussy harder harder and herder! I love it, its so good yummmmmmm"
+			feedback : "Fuck yeah daddy! Fuck my pussy harder harder and harder! I love it, its so good yummmmmmm"
 		},
 		{
 			id : 4,
