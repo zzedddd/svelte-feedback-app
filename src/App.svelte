@@ -27,7 +27,14 @@
 			rating : 8,
 			name : "Reven",
 			feedback : "Witch said MC I'm not even close to witch"
+		},
+		{
+			id : 5,
+			rating : 10,
+			name : "Megan",
+			feedback : "My pussy is so wet! Please fill it with your cum daddy please"
 		}
+
 	]
 	const removeIt = (e) => {
 		let itemId = e.detail;
