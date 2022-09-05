@@ -19,7 +19,7 @@
 		{
 			id : 3,
 			rating : 10,
-			name : "Riya",
+			name : "Darya",
 			feedback : "Fuck yeah daddy! Fuck my pussy harder harder and harder! I love it, its so good yummmmmmm"
 		},
 		{
