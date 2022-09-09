@@ -14,7 +14,7 @@
 			id : 2,
 			rating : 9,
 			name : "Jason",
-			feedback : "I love this bitch!"
+			feedback : "I love this bitch's!"
 		},
 		{
 			id : 3,
