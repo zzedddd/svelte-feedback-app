@@ -26,7 +26,7 @@
 			id : 4,
 			rating : 8,
 			name : "Reven",
-			feedback : "Witch said MC I'm not even close to witch"
+			feedback : "i use it once a week when i'm in my firetruck."
 		},
 		{
 			id : 5,
