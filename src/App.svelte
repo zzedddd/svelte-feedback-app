@@ -8,7 +8,7 @@
 			id : 1,
 			rating : 10,
 			name : "Sylvia",
-			feedback : "Fuck yeah daddy! Fuck my pussy harder harder and harder!"
+			feedback : "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!"
 		},
 		{
 			id : 2,
