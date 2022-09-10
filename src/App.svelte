@@ -14,7 +14,7 @@
 			id : 2,
 			rating : 9,
 			name : "Jason",
-			feedback : "I love this bitch's! pussy"
+			feedback : "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic."
 		},
 		{
 			id : 3,
