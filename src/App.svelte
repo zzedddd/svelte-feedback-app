@@ -32,7 +32,7 @@
 			id : 5,
 			rating : 10,
 			name : "Megan",
-			feedback : "My pussy is so wet! Please fill it with your cum daddy please please please please please!"
+			feedback : "Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus."
 		}
 
 	]
