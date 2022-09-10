@@ -20,7 +20,7 @@
 			id : 3,
 			rating : 10,
 			name : "Darya",
-			feedback : "Fuck yeah daddy! Fuck my pussy harder harder and harder! I love it, its so good yummmmmmm"
+			feedback : "My co-worker Tyron has one of these. He says it looks stout."
 		},
 		{
 			id : 4,
