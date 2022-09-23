@@ -2,3 +2,4 @@
 /public/build/
 
 .DS_Store
+.project_alt.json
